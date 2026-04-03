@@ -1,0 +1,1 @@
+my repository manly shows the common flutter widgets that includes the files for the mobile applicaion assignments that are for a profile , navigation, catalogue and registration interfaces. sorry for the the way i uploaded the files
